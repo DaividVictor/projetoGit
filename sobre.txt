@@ -1,0 +1,7 @@
+Oi! Eu sou o Daivid Victor, mas pode me chamar de Samurai. 
+Sou Engenheiro Agrônomo e estou em transição de carreira aprendendo Desenvolvimento Web.
+Criando uma linha qualquer para ver como se comporta quando for feito um commit remotamente.
+
+Última alteração feita via repositório remoto, ou seja, pelo site github.com.
+
+
