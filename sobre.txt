@@ -3,3 +3,5 @@ Sou Engenheiro Agrônomo e estou em transição de carreira aprendendo Desenvolv
 Criando uma linha qualquer para ver como se comporta quando for feito um commit remotamente.
 
 Última alteração feita via repositório remoto, ou seja, pelo site "https://github.com/DaividVictor/projetoGit/edit/master/sobre.txt".
+
+Esta alteração foi feita após criar uma chave conforme o vídeo.
